@@ -1,5 +1,7 @@
 ## -*- docker-image-name: "armbuild/ocs-app-timemachine:utopic" -*-
 FROM armbuild/ocs-app-openvpn:utopic
+MAINTAINER Online Labs <opensource@ocs.online.net> (@online_en)
+
 
 # Prepare rootfs for image-builder
 RUN /usr/local/sbin/builder-enter
