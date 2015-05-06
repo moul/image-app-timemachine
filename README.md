@@ -1,6 +1,6 @@
 # Official TimeMachine image on Scaleway
 
-[![Travis](https://img.shields.io/travis/scaleway/image-app-python.svg)](https://travis-ci.org/scaleway/image-app-timemachine)
+[![Travis](https://img.shields.io/travis/scaleway/image-app-timemachine.svg)](https://travis-ci.org/scaleway/image-app-timemachine)
 [![Scaleway ImageHub](https://img.shields.io/badge/ImageHub-view-ff69b4.svg)](https://hub.scaleway.com/timemachine.html)
 [![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=coming-soon)
 
